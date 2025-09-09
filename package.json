@@ -1,0 +1,23 @@
+{
+  "name": "sa.01-wk1-code-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "netSalaryCalculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonkaruga/SA.01-WK1-Code-Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonkaruga/SA.01-WK1-Code-Challenge/issues"
+  },
+  "homepage": "https://github.com/simonkaruga/SA.01-WK1-Code-Challenge#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
